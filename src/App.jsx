@@ -75,7 +75,7 @@ function App() {
     // Search for match
     const match = rows.find(
       row =>
-        row.file_number === fileNumber.trim() &&
+        row.file_number.toLowerCase() === fileNumber.trim().toLowerCase() &&
         row.surname.toLowerCase() === surname.trim().toLowerCase()
     );
 
@@ -123,7 +123,7 @@ function App() {
               style={{
                 width: "100%", padding: 8, margin: "8px 0 20px", borderRadius: 6, border: "1px solid #ccc"
               }}
-              placeholder="e.g. 12345"
+              placeholder="e.g. I12345"
             />
           </label>
           <label style={{ color: '#333434' }}>Surname<br />
