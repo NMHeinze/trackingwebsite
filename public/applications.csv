@@ -1,9 +1,18 @@
 file_number,surname,status
 12345,Smith,Deposit Paid
-23456,Patel,File Opened
-34567,Johnson,Drafting Application
-45678,Naidoo,Editing Application
-56789,Mkhize,Putting Together Application
-67890,Botha,Submitted
 I0512,Cossa,Submitted
 I0516,Giris,Submitted
+I0541,Mudodo,Submitted
+I0550,Ortega,Submitted
+I0567,Mudehwe,Submitted
+I0572,Yang,Submitted
+I0577,Tolela,Submitted
+I0588,Murangandi,Editing Application
+I0589,Tshibola,Submitted
+I0607,Bhango,Editing Application
+I0609,Patel,Drafting Application
+I0615,Bintu,Editing Application
+I0624,Mudehwe,Editing Application
+I0627,Mbuyi,Editing Application
+10630,Magura,Drafting Application
+I0651,Kaziko,File Opened
